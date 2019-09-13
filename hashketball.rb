@@ -126,7 +126,11 @@ end
 
 def num_points_scored(name)
   
+  hash = game_hash
+  
   if 
+    
+    hash[:]
 
 end
 
