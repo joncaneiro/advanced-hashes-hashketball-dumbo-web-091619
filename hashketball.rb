@@ -128,9 +128,11 @@ def num_points_scored(name)
   
   hash = game_hash
   
-  if 
+  # hash[:home or :away][:players][name][:points]
+  
+  if hash.each {|key, valu
     
-    hash.each {|key, value|
+    
 
 end
 
