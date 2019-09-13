@@ -130,7 +130,7 @@ def num_points_scored(name)
   
   # hash[:home or :away][:players][name][:points]
   
-  if hash.each {|home_or
+  if hash.each {
     
     
 
