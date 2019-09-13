@@ -130,7 +130,7 @@ def num_points_scored(name)
   
   if 
     
-    hash.each 
+    hash.each {|key, value|
 
 end
 
